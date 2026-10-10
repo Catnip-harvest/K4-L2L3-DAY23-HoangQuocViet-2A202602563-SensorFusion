@@ -6,7 +6,7 @@
 
 - Họ tên: Hoàng Quốc Việt
 - MSSV: 2A202602563
-- Email: 154653151+Catnip-harvest@users.noreply.github.com
+- Email: 26ai.viethq@vinuni.edu.vn
 - Link repo (fork): https://github.com/Catnip-harvest/K4-L2L3-DAY23-HoangQuocViet-2A202602563-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`): commit cuối trên `main` (hash 40 ký tự nộp trên LMS); artifacts chấm điểm được sinh ở commit CP5 `e4ef9132f8e14025bee46e6b8676b41546d6a927`, sau lần sửa code E–H cuối cùng (CP4)
 
