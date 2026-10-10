@@ -1,0 +1,28 @@
+{
+  "tracks_exported": 16,
+  "frames": 199,
+  "ghost_events": 0,
+  "id_switch_events": 0,
+  "suppressed_ghost_events": 25,
+  "suppressed_ghost_tracks": [
+    2,
+    3,
+    4,
+    6,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "highlighted": {
+    "10": {
+      "frame": 10,
+      "type": "suppressed_ghost",
+      "track": 2,
+      "state": "initialized",
+      "score": 0.167,
+      "nearest_gt_m": 4.3
+    }
+  }
+}

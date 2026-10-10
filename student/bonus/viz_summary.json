@@ -1,0 +1,39 @@
+{
+  "focus_frame": 134,
+  "focus_track": 10,
+  "camera_correction_m": 0.208,
+  "focus_xy_error_before_after_m": [
+    0.2363,
+    0.0301
+  ],
+  "per_track": [
+    {
+      "track": 0,
+      "frames": 195,
+      "rmse_fused_m": 0.1664,
+      "rmse_lidar_m": 0.1483,
+      "fused_minus_lidar_m": 0.0181
+    },
+    {
+      "track": 1,
+      "frames": 195,
+      "rmse_fused_m": 0.0916,
+      "rmse_lidar_m": 0.1224,
+      "fused_minus_lidar_m": -0.0308
+    },
+    {
+      "track": 5,
+      "frames": 11,
+      "rmse_fused_m": 0.1499,
+      "rmse_lidar_m": 0.1595,
+      "fused_minus_lidar_m": -0.0096
+    },
+    {
+      "track": 10,
+      "frames": 101,
+      "rmse_fused_m": 0.1403,
+      "rmse_lidar_m": 0.1954,
+      "fused_minus_lidar_m": -0.0551
+    }
+  ]
+}
